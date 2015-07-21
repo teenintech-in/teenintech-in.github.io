@@ -1,0 +1,48 @@
+/*!
+ * Start Bootstrap - The Big Picture HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background: none;
+}
+h1,h2,{
+text-align:center;
+}
+.head{
+
+font-family: 'Exo', sans-serif;
+text-align:center;
+font-size:3.5em;
+margin-bottom:10%;
+}
+.full {
+  background: url('ff.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.quote{
+margin-top:5%;
+font-family: 'Source Sans Pro', sans-serif;
+font-size:2em;}
+.social{
+margin-top: 15%;
+text-align:center;
+}
+.fb{
+color: #3B5998;
+padding-left:0px;
+}
+.tw{
+color: #55acee;
+padding-left:10px;
+}
+.gp{
+color: #dd4b39;
+padding-left:10px;
+}
